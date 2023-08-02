@@ -10,3 +10,5 @@ Future features to implement:
 - Adding Roulette
 - A reward screen for reaching a certain cash goal
 - Forcing player to select only the given options on screen
+- Rewriting entire code in C++
+- Rewriting entire code in Java
